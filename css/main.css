@@ -1,0 +1,191 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+.navbar-personalizado{
+	background-color: violet;
+	border-radius: 0;
+	margin: 0;
+}
+.link-personalizado{
+	color: black;
+	font-size: 20px;
+	text-shadow: none;
+}
+.link-personalizado:hover{
+	color:white;
+}
+.menu-personalizado>li>a{
+	color:black;
+	font-size: 25px;
+	text-shadow: none;
+}
+.menu-personalizado>li>a:hover{
+	color:white;
+	background-color: black;
+}
+.app-bar{
+	background-color: white;
+}
+.app-principal{
+	background-color: violet;
+	color:black;
+	text-align:center;
+}
+.app-titulo{
+	font-size: 40px;
+}
+.app-descripcion{
+	font-size: 18px;
+}
+.app-redes{
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.app-sociales{
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+}
+.app-facebook{
+	display: inline-block;
+	margin-left: 10px;
+}
+.app-twitter{
+	display: inline-block;
+	margin-left: 10px;
+}
+.app-pinterest{
+	display: inline-block;
+	margin-left: 10px;
+}
+.app-youtube{
+	display: inline-block;
+	margin-left: 10px;
+}
+.btn-facebook{
+	color: white;
+	background-color: blue;
+	border-radius: 50%;
+}
+.btn-twitter{
+	color:white;
+	background-color: #00acde;
+	border-radius: 50%;
+}
+.btn-pinterest{
+	color: white;
+	background-color: red;
+	border-radius: 50%;
+}
+
+.btn-youtube{
+	color:black;
+	background-color: red;
+	border-radius: 50%;
+}
+.app-preguntar{
+	background-color: white;
+}
+.app-datos{
+	margin-top: 10px;
+	padding-top: 16px;
+	font-size: 18px;
+	color:black;
+	}
+.gl-usuario{
+	display: inline-block;
+}
+.gl-preguntas{
+	display: inline-block;
+	margin-left: 20px; 
+}
+.btn-preguntar{
+	color:white;
+	background-color: black;
+	margin-top:12px;
+	margin-bottom: 12px;
+}
+.app-top{
+	margin-top:10px;
+	font-size: 18px;
+
+}
+.app-justificar{
+text-align: justify;
+padding-top: 5px;
+padding-bottom: 5px;
+}
+.app-user{
+text-align: center;
+font-size: 18px;
+}
+.app-img-centrar{
+	margin-left: auto;
+	margin-right: auto;
+}
+.app-text-M{
+	font-size:12px;	
+}
+.gl-vistas{
+	color:pink;
+	padding-right: 5px;
+	font-size: 14px !important;
+}
+.gl-respuestas{
+	color:orange;
+	padding-right: 5px;
+	font-size: 14px !important;
+}
+.gl-votos{
+	color:green;
+	padding-right: 5px;
+	font-size: 14px !important;
+}
+.app-etiquetas{
+	font-size: 16px;
+	color:white;
+	background-color: blue;
+	margin-bottom: -8px;
+	padding-top: 8px;
+}
+.label-etiquetas{
+	background-color: black;
+}
+.app-centrar{
+	text-align: center;
+}
+.app-footer{
+	background-color: green;
+	color:white;
+	font-size: 20px;
+	text-align: center;
+	padding:20px;
+}
+.app-user-active{
+	width: 100px;
+	height: 20px;
+}
+.app-activado{
+	width: 30px;
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 10px;
+}
+.app-pregunta{
+	margin-top: 20px;
+	margin-bottom: 30px;
+}
+.media-1{
+	margin-bottom: 30px;
+}
+.dimension{
+	resize: none;
+}
+
+
